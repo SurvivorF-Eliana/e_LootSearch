@@ -4,7 +4,7 @@
 
 A highly configurable **DayZ loot-search system** that allows players to investigate static environment objects such as refrigerators, lockers, dumpsters, and other configured props.
 
-![[DayZ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoLqb0msKGKKg6Dq9pOFap2DGxs769FRV6sAdB1ym3LGUDoQ2SP3wJBTm&s=10)](https://img.shields.io/badge/DayZ-Mod-blue)
+![(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoLqb0msKGKKg6Dq9pOFap2DGxs769FRV6sAdB1ym3LGUDoQ2SP3wJBTm&s=10)](https://img.shields.io/badge/DayZ-Mod-blue)
 ![Bring your own!](https://img.shields.io/badge/Loot%20Tables-Configurable-green)
 ![Offline Tool](https://img.shields.io/badge/Config%20Generator-Offline-orange)
 
