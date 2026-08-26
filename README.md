@@ -8,4 +8,5 @@ A highly configurable DayZ mod that allows players to search static objects (lik
 **Visual Config Generator:** Includes an offline HTML tool (`ConfigGenerator.html`) that parses your server's `types.xml` for auto-complete. <br>
 
 ## Configuration
-The mod configuration is located at `$profile:LootSearch/config.json`. Use `ConfigGenerator.html` to easily edit it. Refer to `SERVER_PROPS_GUIDE_EN.md` for valid targets.
+The mod configuration is located at `$profile:LootSearch/config.json`. <br>
+Use `ConfigGenerator.html` to easily edit it. Refer to `SERVER_PROPS_GUIDE_EN.md` for valid targets.
